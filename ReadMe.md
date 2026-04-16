@@ -52,7 +52,7 @@ valuable real-world applications of machine learning in industry today.
 ### 1. Healthy vs faulty sensor distributions
 Shows how each sensor reads differently for healthy vs faulty robots
 
-![Distributions](plot1_distributions.png)
+![Distributions](plot1_distribution.png)
 
 ### 2. Confusion matrix
 Shows exactly where the best model got predictions right and wrong
